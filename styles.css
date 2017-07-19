@@ -1,0 +1,34 @@
+/* add your CSS here */
+body
+{
+	border: 6px solid #2b3b3b;
+	border-radius: 5px;
+	box-shadow: 10px 10px 5px #2b3b3b;
+	width: 300px;
+	margin: 30px;
+}
+div
+{
+	padding: 10px 20px 10px 20px;
+	border: 4px dotted #97b4b4;
+	background-color: #e6ffcc;
+}
+span 
+{
+	font-weight: bold;
+}
+li
+{
+	list-style: none;
+}
+h3 {
+	color: #567676;
+	text-decoration: underline;
+}
+img {
+	width: 250px;
+}
+#animalsfact
+{
+	font-style: italic;
+}
